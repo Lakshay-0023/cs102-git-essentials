@@ -3,3 +3,6 @@ git clone - this is used to clone repository
 git status - this command is used to check tha status of the file 
 git commit - this command is used to commit the changes done to the file
 git log - this command is used to check all the commits 
+
+These were the commands that were taught to us .
+
